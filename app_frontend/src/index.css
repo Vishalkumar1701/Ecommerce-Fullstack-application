@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .stencil-text {
+        color: transparent;
+        -webkit-text-stroke: 4px white;
+    }
+}
