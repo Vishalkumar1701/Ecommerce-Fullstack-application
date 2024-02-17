@@ -8,12 +8,12 @@ pnpm-debug.log*
 lerna-debug.log*
 
 /app_frontend/node_modules
-/node_modules
+/app_backend/node_modules
 dist
 dist-ssr
 *.local
-.env
-/frontend/.env
+/app_backend/.env
+/app_frontend/.env
 
 # Editor directories and files
 .vscode/*
