@@ -5,20 +5,19 @@ Hi! My name is **Vishal**,
 
 # Install Dependencies
 
-**For Backend** - `npm i`
+**For Backend** - `cd app_backend` `npm i`
 
-**For Frontend** - `cd frontend` ` npm i`
+**For Frontend** - `cd app_frontend` ` npm i`
 
-## Env Variables
-
-Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app.
 
 **Essential Variables**
 PORT=
-MONGODB_URI =
+MONGODB_URL =
+JWT_SECRET=
+
 STRIPE_API_KEY=
 STRIPE_SECRET_KEY=
-JWT_SECRET=
+
 CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
