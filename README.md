@@ -1,4 +1,4 @@
-# MERN E-COMMERCE
+# FUll Stack E-COMMERCE
 
 Hi! My name is **Vishal**,
 
